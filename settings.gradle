@@ -1,0 +1,2 @@
+rootProject.name = 'FreedomClient'
+include ':app'
